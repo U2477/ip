@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1,AV1
+rtsp://192.168.217:9119/live

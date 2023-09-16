@@ -253,10 +253,6 @@ https://linkastream.co/headless?url=https://www.youtube.com/c/CBCSofraStream/liv
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-id="Ch4Teen.kw" tvg-name="Ch4Teen" tvg-country="KW" tvg-language="Arabic" tvg-logo="https://i.imgur.com/JeG9K1y.png" group-title="",Ch4Teen (480p)
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/index_150_av-p.m3u8
-#EXTINF:-1 tvg-id="CharityTV.lb" tvg-name="CharityTV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://kreim-storage.fra1.digitaloceanspaces.com/APP%20Logo%20PNG.png" group-title="Religious",CharityTV (1080p)
-http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
-#EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us" tvg-name="Christian Youth Channel (CYC)" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PfFJy5E.png" group-title="Religious",Christian Youth Channel (CYC) (1080p)
-http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNA.dz" tvg-name="CNA" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/4s1NlRf.jpg" group-title="Religious",CNA (Chaîne Nord Africaine) (360p)
 https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCArabiya.us" tvg-name="CNBC Arabiya" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="Business",CNBC Arabiya (720p)

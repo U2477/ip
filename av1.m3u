@@ -31,6 +31,8 @@ http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
 #EXTINF:-1 tvg-id="AghapyTV.eg" tvg-name="Aghapy TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="Religious",Aghapy TV (1080p)
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KarbalaTV.iq" tvg-name="Karbala TV" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jPykyMf.png" group-title="Religious",Karbala TV (1080p)
+https://livestream.almanasa.tv:8117/islamic/ch3/ch3_1080.m3u8
 #EXTINF:-1 tvg-id="AhluAlQuranTV.sa" tvg-name="Ahlu Al Quran TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://www.ahlu.tv/uploads/logo.png" group-title="Religious",Ahlu Al Quran TV (720p)
 https://5b18be6964c2f.streamlock.net/m/ngrp:ahul_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AICTV.ye" tvg-name="AIC TV" tvg-country="YE" tvg-language="Arabic" tvg-logo="" group-title="General",AIC TV
@@ -978,4 +980,3 @@ http://89.105.216.22:8080/live/bebosn/bebosn/133.ts
 #EXTINF:-1,SP : Libya Sport 2
 http://89.105.216.22:8080/live/bebosn/bebosn/134.ts
 #EXTINF:-1,SP : OMAN SPORT
-http://89.105.216.22:8080/live/bebosn/bebosn/135.tshttp://82.212.74.2:8000/live/7311.m3u8%20#EXTINF:-1%20tvg-id=%22KarbalaTV.iq%22%20tvg-logo=%22https://i.imgur.com/jPykyMf.png%22%20group-title=%22Religious%22,Karbala%20TV%20(1080p)%20[Geo-blocked]

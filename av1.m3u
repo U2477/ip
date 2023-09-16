@@ -245,6 +245,10 @@ https://svs.itworkscdn.net/itwlive/itw3.smil/playlist.m3u8
 http://142.112.39.133:8080/catv.mp4
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network Arabic" tvg-country="MENA" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic (1080p)
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Animation;Kids",Xtrema Cartoons (360p)
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Animation;Classic;Kids",Xtrema Retro Cartoons (360p)
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="CBC.eg" tvg-name="CBC" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="",CBC [Not 24/7]
 https://linkastream.co/headless?url=https://www.youtube.com/c/cbcstream/live
 #EXTINF:-1 tvg-id="CBCSofra.eg" tvg-name="CBC Sofra" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="",CBC Sofra [Not 24/7]

@@ -427,7 +427,7 @@ http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w575132091_b4500000_sl
 #EXTINF:-1 tvg-id="M24TV.ma" tvg-name="M24 TV" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="News",M24 TV (720p)
 http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MajidTV.ae" tvg-name="Majid TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Kids",Majid TV (1080p)
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-name="Makkah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Religious",Makkah TV (480p)
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="MarahFM.ps" tvg-name="Marah FM" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PeIYCXs.jpg" group-title="Music",Marah FM (720p) [Not 24/7]

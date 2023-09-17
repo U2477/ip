@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AV1" tvg-name="AV1" tvg-country="RTX" tvg-language="Arabic;English" tvg-logo="https://i.imgur.com/EtjUE1P.jpeg" group-title="General",1AV
+https://download.quranicaudio.com/quran/abdul_basit_murattal/002.mp3
 #EXTINF:-1 tvg-id="المحترف السويدي" tvg-name="2M Monde" tvg-country="MA" tvg-language="Arabic;French" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="General",المحترف السويدي
 https://download.quranicaudio.com/quran/abdul_basit_murattal/002.mp3
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" tvg-country="MA" tvg-language="Arabic;French" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="General",2M Monde (360p)

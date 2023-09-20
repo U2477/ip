@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AV1" tvg-name="AV1" tvg-country="RTX" tvg-language="Arabic;English" tvg-logo="https://i.imgur.com/EtjUE1P.jpeg" group-title="General",1AV
-rtsp://192.168.0.227:8554/mystream
+rtmp://localhost:1935/live/mystream
 #EXTINF:-1 group-title="Bein",beIN Sports 1
 http://89.105.216.22:8080/live/bebosn/bebosn/33.ts
 #EXTINF:-1 group-title="Bein",beIN Sports 1
